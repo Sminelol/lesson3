@@ -81,7 +81,10 @@ div {
 	display: flex;
 	flex-direction: row;
 }
-
+.cats-dogs{
+	display:flex;
+	flex-direction: row;
+}
 .dog1 {
 	margin-left: auto;
 }
